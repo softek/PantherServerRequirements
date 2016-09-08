@@ -6,11 +6,12 @@
   * 500 IOPS
   * 1GB NVRAM Writeback Cache
   * 80MB/s Sustained Transfer Rate (STR)
-* 64 GB of RAM
-* Network
-  * Gigabit connectivity
+* RAM
+  * 64 GB
 * CPU
   * 24 logical processors
+* Network
+  * Gigabit connectivity
 * Database Hyper-V Virtual Machine hosted on the server
   * 32 GB of RAM
   * 4 logical processors
