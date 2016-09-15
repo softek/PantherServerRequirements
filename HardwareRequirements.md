@@ -12,6 +12,7 @@
   * 24 logical processors
 * Network
   * Gigabit connectivity
+  * static IP
 * Database Hyper-V Virtual Machine hosted on the server
   * 32 GB of RAM
   * 4 logical processors
