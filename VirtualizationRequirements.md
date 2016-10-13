@@ -1,12 +1,13 @@
 Virtual Environment Requirements:
 * The virtualization software supports USB pass-through from the VM host to the VMs. This is required to support the use of a WIBU security dongle that Panther accesses regularly.
-* Host
-  * ESXi 4.1
-* Resources are devoted to the Panther VM and NOT shared.
+* Panther has been tested on the following hypervisors:
+  * ESXi 4.1, 5.0, 5.5
+  * Hyper-V
+* Resources should be devoted to the Panther VMs and not shared.
 
 Virtual Machine #1 (Panther services):
 * Hard drive
-  * 128 GB Volume for OS, formatted to use the system default block size
+  * 128 GB Volume
   * 500 IOPS
   * Minimum 80MB/s Sustained Transfer Rate (STR)
 * RAM
@@ -20,7 +21,9 @@ Virtual Machine #1 (Panther services):
 
 Virtual Machine #2 (Database services):
 * Hard drive
-  * 1 x 300 GB
+  * 300 GB Volume
+  * 500 IOPS
+  * Minimum 80MB/s Sustained Transfer Rate (STR)
 * RAM
   * 16 GB
 * CPU
