@@ -13,8 +13,7 @@ Virtual Machine #1 (Panther services):
 * RAM
   * 8 GB
 * CPU
-  * Modern Nehalem, Core, 65nm Opteron or equivalent processors
-  * 16 logical processors
+  * 8 cores 2.4GHz or higher
 * Network
   * 1 Gigabit connection
   * static IP
@@ -27,9 +26,9 @@ Virtual Machine #2 (Database services):
 * RAM
   * 16 GB
 * CPU
-  * 4 logical cores
+  * 4 cores 2.4GHz or higher
 * Network
   * 1 Gigabit connection
   * static IP
 
-v7.0
+v7.1

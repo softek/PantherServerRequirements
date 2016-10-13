@@ -9,13 +9,13 @@
 * RAM
   * 64 GB
 * CPU
-  * 24 logical processors
+  * 12 cores 2.4GHz or higher
 * Network
   * Gigabit connectivity
   * static IP
 * Database Hyper-V Virtual Machine hosted on the server
   * 32 GB of RAM
-  * 4 logical processors
+  * 4 cores
   * 1 TB hard drive (stored on D:\)
 
-v7.0
+v7.1
