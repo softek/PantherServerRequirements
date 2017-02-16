@@ -1,5 +1,4 @@
-Virtual Environment Requirements:
-* The virtualization software supports USB pass-through from the VM host to the VMs. This is required to support the use of a WIBU security dongle that Panther accesses regularly.
+﻿Virtual Environment Requirements:
 * Panther has been tested on the following hypervisors:
   * ESXi 4.1, 5.0, 5.5
   * Hyper-V
@@ -31,4 +30,4 @@ Virtual Machine #2 (Database services):
   * 1 Gigabit connection
   * static IP
 
-v7.1
+v7.2
