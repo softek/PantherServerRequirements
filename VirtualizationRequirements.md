@@ -6,7 +6,7 @@
 
 Virtual Machine #1 (Panther services):
 * Hard drive
-  * 128 GB Volume
+  * 128 GB Volume C:\
   * 500 IOPS
   * Minimum 80MB/s Sustained Transfer Rate (STR)
 * RAM
@@ -19,7 +19,7 @@ Virtual Machine #1 (Panther services):
 
 Virtual Machine #2 (Database services):
 * Hard drive
-  * 300 GB Volume
+  * 300 GB Volume C:\
   * 500 IOPS
   * Minimum 80MB/s Sustained Transfer Rate (STR)
 * RAM
@@ -30,4 +30,4 @@ Virtual Machine #2 (Database services):
   * 1 Gigabit connection
   * static IP
 
-v7.2
+v7.3
