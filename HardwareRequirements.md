@@ -1,7 +1,7 @@
 * Hard drive
   * 2x 480 GB SSDs C:\
     * RAID 1
-  * 6x 480 GB D:\
+  * 6x 480 GB SSDs D:\
     * RAID 10
   * 6 Gbps
 * RAM
@@ -16,4 +16,4 @@
   * 4 cores
   * 400 GB hard drive (stored on D:\)
 
-v7.2
+v7.3

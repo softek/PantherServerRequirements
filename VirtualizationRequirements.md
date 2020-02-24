@@ -1,6 +1,6 @@
 ﻿Virtual Environment Requirements:
 * Panther has been tested on the following hypervisors:
-  * ESXi 4.1, 5.0, 5.5
+  * ESXi 4.1, 5.0, 5.5, 6.5, 6.7
   * Hyper-V
 * Resources should be devoted to the Panther VMs and not shared.
 
@@ -30,4 +30,4 @@ Virtual Machine #2 (Database services):
   * 1 Gigabit connection
   * static IP
 
-v7.3
+v7.4
