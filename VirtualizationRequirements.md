@@ -1,14 +1,13 @@
 ﻿Virtual Environment Requirements:
 * Panther has been tested on the following hypervisors:
-  * ESXi 4.1, 5.0, 5.5, 6.5, 6.7
+  * ESXi 7 and 8
   * Hyper-V
 * Resources should be devoted to the Panther VMs and not shared.
 
-Virtual Machine #1 (Panther services):
+Minimum Virtual Machine #1 (Panther services):
 * Hard drive
   * 128 GB Volume C:\
-  * 500 IOPS
-  * Minimum 80MB/s Sustained Transfer Rate (STR)
+  * 150 MB/s Sustained Transfer Rate
 * RAM
   * 8 GB
 * CPU
@@ -17,11 +16,10 @@ Virtual Machine #1 (Panther services):
   * 1 Gigabit connection
   * static IP
 
-Virtual Machine #2 (Database services):
+Minimum Virtual Machine #2 (Database services):
 * Hard drive
   * 300 GB Volume C:\
-  * 500 IOPS
-  * Minimum 80MB/s Sustained Transfer Rate (STR)
+  * 150 MB/s Sustained Transfer Rate
 * RAM
   * 16 GB
 * CPU
@@ -30,4 +28,4 @@ Virtual Machine #2 (Database services):
   * 1 Gigabit connection
   * static IP
 
-v7.4
+v7.5
